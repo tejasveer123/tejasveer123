@@ -17,15 +17,15 @@
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></td>
-  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></td>
+  <td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"</td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
-  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></td>
 </tr>
 <tr>
   
-  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
+  <td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></td>
-  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
+  <td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></td>

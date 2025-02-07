@@ -1,69 +1,51 @@
-<h1 align="left">Hi everyone 👋</h1>
+<div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejasveer123.tejasveer123&left_text=profile%20visitors"  />
+# Hey everyone 👋 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejasveer123.tejasveer123&"  />
 </div>
 
 ###
 
-<h2 align="center">Tools and Tech stack:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+<div align="center"><b>Tools and Tech stack:</b> </div>
+<br/>
+<br/>
 
-###
+<table align="center" width="90%" >
+<tr>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></td>
+</tr>
+<tr>
+  
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></td>
+  <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></td>
+</tr>
+</table>
+
+<br/>
+<br/>
 
 <h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/veertejas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="(https://discord.com/invite/75GhkcZb)"><img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tejasveer2612@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-###
-
-<div align="center">
-  <a href="tejasveer2612@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="linkedin.com/in/veertejas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/invite/75GhkcZb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
 
 <p align="left"></p>
 
-###
+
 
 <h2 align="left"></h2>
-
-###
